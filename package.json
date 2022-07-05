@@ -2,8 +2,10 @@
   "name": "tauri-app",
   "scripts": {
     "tauri": "tauri",
-    "dev": "next build && next export && yarn run tauri dev",
-    "build": "next build && next export && yarn run tauri build",
+    "dev:app": "next build && next export && yarn run tauri dev",
+    "build:app": "next build && next export && yarn run tauri build",
+    "dev": "next dev",
+    "build": "next build",
     "lint": "eslint --ignore-path .gitignore ."
   },
   "dependencies": {
