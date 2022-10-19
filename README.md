@@ -1,6 +1,9 @@
 # ☁ Tauri & Next
 ![](https://i.imgur.com/asEHkSk.png)
 
+> **Note**  
+> Tauri have their own [guide](https://tauri.app/v1/guides/getting-started/setup/next-js) on using NextJS as your frontend providor now, please use that instead.
+
 # Setting up
 ```bash
 $ git clone https://github.com/tygerxqt/tauri-next-boilerplate
