@@ -2,7 +2,7 @@
 ![](https://i.imgur.com/asEHkSk.png)
 
 > **Note**  
-> Tauri have their own [guide](https://tauri.app/v1/guides/getting-started/setup/next-js) on using NextJS as your frontend providor now, please use that instead.
+> Tauri have their own [guide](https://tauri.app/v1/guides/getting-started/setup/next-js) on using NextJS as your frontend providor now. However, this will be avalible for users who want a pre-built template.
 
 # Setting up
 ```bash
